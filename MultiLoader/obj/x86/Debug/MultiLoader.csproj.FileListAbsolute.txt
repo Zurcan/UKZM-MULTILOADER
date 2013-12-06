@@ -1,0 +1,85 @@
+E:\work&edu\visual studio projects\MultiLoader\MultiLoader\bin\Debug\MultiLoader.exe
+E:\work&edu\visual studio projects\MultiLoader\MultiLoader\bin\Debug\MultiLoader.pdb
+E:\work&edu\visual studio projects\MultiLoader\MultiLoader\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\work&edu\visual studio projects\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.Form1.resources
+E:\work&edu\visual studio projects\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.Properties.Resources.resources
+E:\work&edu\visual studio projects\MultiLoader\MultiLoader\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\work&edu\visual studio projects\MultiLoader\MultiLoader\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\work&edu\visual studio projects\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.exe
+E:\work&edu\visual studio projects\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.pdb
+C:\Documents and Settings\Tsurkan1\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.exe
+C:\Documents and Settings\Tsurkan1\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.pdb
+C:\Documents and Settings\Zurcan\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.exe
+C:\Documents and Settings\Zurcan\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.pdb
+C:\Documents and Settings\Zurcan\Рабочий стол\MultiLoader\MultiLoader\bin\Debug\MultiLoader.exe
+C:\Documents and Settings\Zurcan\Рабочий стол\MultiLoader\MultiLoader\bin\Debug\MultiLoader.pdb
+C:\Documents and Settings\Zurcan\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Zurcan\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.Form1.resources
+C:\Documents and Settings\Zurcan\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.Properties.Resources.resources
+C:\Documents and Settings\Zurcan\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Zurcan\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Tsurkan1\Рабочий стол\MultiLoader\MultiLoader\bin\Debug\MultiLoader.exe
+C:\Documents and Settings\Tsurkan1\Рабочий стол\MultiLoader\MultiLoader\bin\Debug\MultiLoader.pdb
+C:\Documents and Settings\Tsurkan1\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Tsurkan1\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.Form1.resources
+C:\Documents and Settings\Tsurkan1\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.Properties.Resources.resources
+C:\Documents and Settings\Tsurkan1\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Tsurkan1\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.exe
+E:\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.pdb
+E:\Рабочий стол\MultiLoader\MultiLoader\bin\Debug\MultiLoader.exe
+E:\Рабочий стол\MultiLoader\MultiLoader\bin\Debug\MultiLoader.pdb
+E:\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.Form1.resources
+E:\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.Properties.Resources.resources
+E:\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.exe
+C:\Documents and Settings\Admin\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.pdb
+C:\Documents and Settings\Admin\Рабочий стол\MultiLoader\MultiLoader\bin\Debug\MultiLoader.exe
+C:\Documents and Settings\Admin\Рабочий стол\MultiLoader\MultiLoader\bin\Debug\MultiLoader.pdb
+C:\Documents and Settings\Admin\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.Form1.resources
+C:\Documents and Settings\Admin\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.Properties.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Denis\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.exe
+C:\Documents and Settings\Denis\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.pdb
+C:\Documents and Settings\Denis\Рабочий стол\MultiLoader\MultiLoader\bin\Debug\MultiLoader.exe
+C:\Documents and Settings\Denis\Рабочий стол\MultiLoader\MultiLoader\bin\Debug\MultiLoader.pdb
+C:\Documents and Settings\Denis\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Denis\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.Form1.resources
+C:\Documents and Settings\Denis\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.Properties.Resources.resources
+C:\Documents and Settings\Denis\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Denis\Рабочий стол\MultiLoader\MultiLoader\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Denis\Рабочий стол\zurcan's desktop\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.exe
+C:\Documents and Settings\Denis\Рабочий стол\zurcan's desktop\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.pdb
+D:\work\укзм\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.exe
+D:\work\укзм\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.pdb
+D:\work\укзм\MultiLoader\MultiLoader\bin\Debug\MultiLoader.exe
+D:\work\укзм\MultiLoader\MultiLoader\bin\Debug\MultiLoader.pdb
+D:\work\укзм\MultiLoader\MultiLoader\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\work\укзм\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.Form1.resources
+D:\work\укзм\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.Properties.Resources.resources
+D:\work\укзм\MultiLoader\MultiLoader\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\work\укзм\MultiLoader\MultiLoader\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Metelkin\Мои документы\Visual Studio 2010\Projects\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.exe
+C:\Documents and Settings\Metelkin\Мои документы\Visual Studio 2010\Projects\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.pdb
+C:\Documents and Settings\Metelkin\Мои документы\Visual Studio 2010\Projects\MultiLoader\MultiLoader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Metelkin\Мои документы\Visual Studio 2010\Projects\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.Form1.resources
+C:\Documents and Settings\Metelkin\Мои документы\Visual Studio 2010\Projects\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.Properties.Resources.resources
+C:\Documents and Settings\Metelkin\Мои документы\Visual Studio 2010\Projects\MultiLoader\MultiLoader\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Metelkin\Мои документы\Visual Studio 2010\Projects\MultiLoader\MultiLoader\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Metelkin\Мои документы\Visual Studio 2010\Projects\MultiLoader\MultiLoader\bin\Debug\MultiLoader.exe
+C:\Documents and Settings\Metelkin\Мои документы\Visual Studio 2010\Projects\MultiLoader\MultiLoader\bin\Debug\MultiLoader.pdb
+H:\desktop\Рабочий стол\укзм_актуальное\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.exe
+H:\desktop\Рабочий стол\укзм_актуальное\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.pdb
+H:\desktop\Рабочий стол\укзм_актуальное\MultiLoader\MultiLoader\bin\Debug\MultiLoader.exe
+H:\desktop\Рабочий стол\укзм_актуальное\MultiLoader\MultiLoader\bin\Debug\MultiLoader.pdb
+H:\desktop\Рабочий стол\укзм_актуальное\MultiLoader\MultiLoader\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\desktop\Рабочий стол\укзм_актуальное\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.Form1.resources
+H:\desktop\Рабочий стол\укзм_актуальное\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.Properties.Resources.resources
+H:\desktop\Рабочий стол\укзм_актуальное\MultiLoader\MultiLoader\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\desktop\Рабочий стол\укзм_актуальное\MultiLoader\MultiLoader\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Metelkin\Рабочий стол\MultiLoader\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.exe
+C:\Documents and Settings\Metelkin\Рабочий стол\MultiLoader\MultiLoader\MultiLoader\obj\x86\Debug\MultiLoader.pdb
